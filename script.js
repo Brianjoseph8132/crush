@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "You’ve just made my heart skip a beat! 💖 I’m so grateful you said yes to being my Valentine. I can’t wait to celebrate you and make this day unforgettable—just like you are to me.";
-  gif.src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFhdjc5cGpidGY1YmxvMnIycnF2bTE4OXNzMHkyYWhyOHc3MzBucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YxKXWOhTSq8I14NKEn/giphy.gif";
+  gif.src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBnaGc1NGZla2V1eHBycDk1OTR2ZjZ2YmNsb2k4a2s0bXE1N3hlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vX1C2TejT6OCOz2kLd/giphy.gif";
 });
 
 // Make the No button move randomly on hover
